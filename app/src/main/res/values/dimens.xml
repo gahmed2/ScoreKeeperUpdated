@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="TitleMarginTop">12dp</dimen>
+    <dimen name="TitleMarginBottom">6dp</dimen>
+
+    <dimen name="ResMarginTop">6dp</dimen>
+    <dimen name="ResMarginBottom">6dp</dimen>
+
+    <dimen name="ButtonMarginLeft">12dp</dimen>
+    <dimen name="ButtonMarginRight">12dp</dimen>
+    <dimen name="ButtonMarginTop">8dp</dimen>
+    <dimen name="ButtonMarginBottom">8dp</dimen>
+
+    <dimen name="TitleTextSize">22sp</dimen>
+
+    <dimen name="ResTextSize">56sp</dimen>
+
+    <dimen name="ButtonTextSize">18sp</dimen>
+
+    <dimen name="DescTextSize">20sp</dimen>
+
+    <dimen name="ResetTextSize">22sp</dimen>
+
+    <dimen name="ResetPadding">12dp</dimen>
+    <dimen name="ResetMarginTop">42dp</dimen>
+    <dimen name="ResetMarginBottom">24dp</dimen>
+
+
+
+
+</resources>

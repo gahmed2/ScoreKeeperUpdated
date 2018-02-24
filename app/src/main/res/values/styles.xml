@@ -1,0 +1,102 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ImageStyle" parent="android:Theme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:alpha">0.6</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <style name="TitleTextStyle" parent="android:Theme">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/Default_black</item>
+        <item name="android:textSize">@dimen/TitleTextSize</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginBottom">@dimen/TitleMarginBottom</item>
+        <item name="android:layout_marginTop">@dimen/TitleMarginTop</item>
+        <item name="android:layout_marginLeft">@dimen/ButtonMarginLeft</item>
+        <item name="android:layout_marginRight">@dimen/ButtonMarginRight</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="ResTextStyle" parent="android:Theme">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/Default_black</item>
+        <item name="android:textSize">@dimen/ResTextSize</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginBottom">@dimen/ResMarginBottom</item>
+        <item name="android:layout_marginTop">@dimen/ResMarginTop</item>
+        <item name="android:layout_marginLeft">@dimen/ButtonMarginLeft</item>
+        <item name="android:layout_marginRight">@dimen/ButtonMarginRight</item>
+    </style>
+
+    <style name="ButtonStyleA" parent="android:Theme">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginBottom">@dimen/ButtonMarginBottom</item>
+        <item name="android:layout_marginTop">@dimen/ButtonMarginTop</item>
+        <item name="android:layout_marginLeft">@dimen/ButtonMarginLeft</item>
+        <item name="android:layout_marginRight">@dimen/ButtonMarginRight</item>
+        <item name="android:background">@color/Mid_Brown</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/Default_black</item>
+        <item name="android:textSize">@dimen/ButtonTextSize</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="DescTextStyle" parent="android:Theme">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/Default_black</item>
+        <item name="android:textSize">@dimen/DescTextSize</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ButtonStyleB" parent="android:Theme">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginBottom">@dimen/ButtonMarginBottom</item>
+        <item name="android:layout_marginTop">@dimen/ButtonMarginTop</item>
+        <item name="android:layout_marginLeft">@dimen/ButtonMarginLeft</item>
+        <item name="android:layout_marginRight">@dimen/ButtonMarginRight</item>
+        <item name="android:background">@color/Mid_Red</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/Default_black</item>
+        <item name="android:textSize">@dimen/ButtonTextSize</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ButtonStyleReset" parent="android:Theme">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/ResetMarginBottom</item>
+        <item name="android:layout_marginTop">@dimen/ResetMarginTop</item>
+        <item name="android:background">@color/Mid_Orange</item>
+        <item name="android:textColor">@color/Default_black</item>
+        <item name="android:textSize">@dimen/ResetTextSize</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:padding">@dimen/ResetPadding</item>
+        <item name="android:layout_below">@id/allContent</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+
+</resources>

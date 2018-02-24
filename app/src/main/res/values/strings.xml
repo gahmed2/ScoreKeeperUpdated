@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+
+    <string name="Team_A">Team A</string>
+    <string name="Team_B">Team B</string>
+
+    <string name="Touch_Down">Touch Down</string>
+    <string name="Field_Goal">Field Goal</string>
+    <string name="Safety_2PAT">Safety /\n 2 PAT</string>
+    <string name="PAT_1">1 PAT</string>
+
+    <string name="Zero">0</string>
+    <string name="Six">+6</string>
+    <string name="Three">+3</string>
+    <string name="Two">+2</string>
+    <string name="One">+1</string>
+
+    <string name="Reset">New Game</string>
+
+</resources>

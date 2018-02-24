@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="Default_black">#000000</color>
+    <color name="Mid_Brown">#795548</color>
+    <color name="Mid_Red">#E53935</color>
+    <color name="Mid_Orange">#F57C00</color>
+</resources>
